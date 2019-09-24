@@ -1,0 +1,7 @@
+.NavBar {
+    display: flex;
+    justify-content: center;
+}
+.NavBar > a {
+    margin: 10px;
+}
